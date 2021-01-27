@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-brickgamechamp-dev-103843-authRole",
+            "UnauthRoleArn": "arn:aws:iam::830412445193:role/amplify-brickgamechamp-dev-103843-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::830412445193:role/amplify-brickgamechamp-dev-103843-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "amplify-brickgamechamp-dev-103843-deployment",
+            "UnauthRoleName": "amplify-brickgamechamp-dev-103843-unauthRole",
+            "StackName": "amplify-brickgamechamp-dev-103843",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:830412445193:stack/amplify-brickgamechamp-dev-103843/377b6410-37af-11eb-bf12-0a7a08b10c2c",
+            "AmplifyAppId": "d3ok6we83is7f9"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3ok6we83is7f9",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
